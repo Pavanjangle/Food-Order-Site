@@ -3,9 +3,7 @@
   <head>
     <title>Fevorite Food App</title>
 
-    
-
-    <style>
+        <style>
 body{
     padding:0px;
     margin:0px;
